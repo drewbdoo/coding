@@ -1,7 +1,12 @@
-# coding
-This is a test of me changing the readme for WIN Day 7, woot!
-Adding a new line
+# BORING TITLE
+## BORING TITLE2
+## BORING TITLE3
+### BORING TITLE4
+#### BORING TITLE5
 
-extra line here
+_italics_
 
-Holy crap, this is awesome
+![GIT PUSH](https://miro.medium.com/max/1280/0*HhzqQ5ACowM4J4j9.jpg)
+
+
+LETS GO
